@@ -1,0 +1,2 @@
+module CatogariesHelper
+end
